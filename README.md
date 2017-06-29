@@ -97,7 +97,7 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file.
 - [x] `diff`
 - [x] `drop` / `dropRight` / `dropWhile`
 - [x] `empty`
-- [x] `filter` / `filterNot`
+- [x] `filter` / `filterNot` / `filterKeys`
 - [x] `groupBy`
 - [x] `intersect`
 - [x] `partition`
@@ -120,11 +120,13 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file.
 - [x] `++` / `concat` / `union`
 - [x] `flatMap`
 - [x] `grouped`
-- [x] `map`
+- [x] `keys` / `keySet` / `keysIterator`
+- [x] `map` / `mapValues`
 - [x] `merged`
 - [x] `scan` / `scanLeft` / `scanRight`
 - [x] `sliding`
 - [x] `unzip`
+- [x] `values` / `valuesIterator`
 - [x] `zip` / `zipWithIndex`
 
 ### In-place mutating operations
